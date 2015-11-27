@@ -1,0 +1,47 @@
+[{
+	id: '1',
+	name: 'Washing machine',
+	image: "http://yellowpages.sulekha.com/images/articles/resourceGetter1.jpg",
+	type: 'electronics',
+	description: 'This is a washing machine'
+},
+{
+	id: '2',
+	name: 'Washing machine',
+	image: "http://yellowpages.sulekha.com/images/articles/resourceGetter1.jpg",
+
+	type: 'electronics',
+	description: 'This is a washing machine'
+},
+{
+	id: '3',
+	name: 'Washing machine',
+	image: "http://yellowpages.sulekha.com/images/articles/resourceGetter1.jpg",
+
+	type: 'electronics',
+	description: 'This is a washing machine'
+},
+{
+	id: '4',
+	name: 'Washing machine',
+	image: "http://yellowpages.sulekha.com/images/articles/resourceGetter1.jpg",
+
+	type: 'electronics',
+	description: 'This is a washing machine'
+},
+{
+	id: '5',
+	name: 'Washing machine',
+	image: "http://yellowpages.sulekha.com/images/articles/resourceGetter1.jpg",
+
+	type: 'electronics',
+	description: 'This is a washing machine'
+},
+{
+	id: '6',
+	name: 'Washing machine',
+	image: "http://yellowpages.sulekha.com/images/articles/resourceGetter1.jpg",
+
+	type: 'electronics',
+	description: 'This is a washing machine'
+}]
